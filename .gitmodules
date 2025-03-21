@@ -4,3 +4,6 @@
 [submodule "Fundamentos-JavaScript"]
 	path = Fundamentos-JavaScript
 	url = https://github.com/2305ray/Fundamentos-JavaScript.git
+[submodule "Calculator-Challenge"]
+	path = Calculator-Challenge
+	url = https://github.com/2305ray/Calculadora.git
