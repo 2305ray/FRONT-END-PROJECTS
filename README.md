@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/status-em%20construção-yellow" alt="Badge de Status">
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/2305ray/FRONT-END-PROJECTS/blob/main/banner-projetos-front-end.png" >
+</p>
 
 > 🌟 *Repositório dedicado aos meus projetos de estudo do Front-end, utilizando HTML, CSS, ReactJS, JavaScript e TypeScript.*  
 
@@ -14,16 +16,16 @@
 
 <p align="center">
   <a href="#-sobre">
-    <img src="https://img.shields.io/badge/Sobre-blue?style=for-the-badge" alt="Sobre">
+    <img src="https://img.shields.io/badge/Sobre-white?style=for-the-badge" alt="Sobre">
   </a>
   <a href="#-tecnologias-utilizadas">
-    <img src="https://img.shields.io/badge/Tecnologias%20Utilizadas-green?style=for-the-badge" alt="Tecnologias Utilizadas">
+    <img src="https://img.shields.io/badge/Tecnologias%20Utilizadas-purple?style=for-the-badge" alt="Tecnologias Utilizadas">
   </a>
   <a href="#-projetos">
-    <img src="https://img.shields.io/badge/Projetos-blue?style=for-the-badge" alt="Projetos">
+    <img src="https://img.shields.io/badge/Projetos-white?style=for-the-badge" alt="Projetos">
   </a>
   <a href="#-contato">
-    <img src="https://img.shields.io/badge/Contato-green?style=for-the-badge" alt="Contato">
+    <img src="https://img.shields.io/badge/Contato-purple?style=for-the-badge" alt="Contato">
   </a>
 </p>
 
@@ -58,12 +60,13 @@ As principais tecnologias e ferramentas usadas nestes projetos incluem:
 <h2 align="center">  📂 Projetos </h2>
 
 Você pode conferir todos os meus projetos diretamente na aba de repositórios do meu GitHub:
-🔗 ![Meu Github](https://github.com/2305ray)  
+
+🔗 [Meu Github](https://github.com/2305ray)  
 
 ---
 
 <h2 align="center">  📞 Contato </h2>
 
 📧 *Email:* rayssagarcia035@gmail.com  
-🔗 *LinkedIn:* [seu-linkedin](https://www.linkedin.com/in/rayssa-da-silva-garcia-853855307/)  
+🔗 *LinkedIn:* [Rayssa da Silva Garcia](https://www.linkedin.com/in/rayssa-da-silva-garcia-853855307/)  
 
