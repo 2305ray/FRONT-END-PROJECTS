@@ -12,7 +12,7 @@
 ---
 
 ## 📌 *Índice*
-[![🚀 Sobre](https://img.shields.io/badge/🚀%20Sobre-blue?style=for-the-badge)](#-sobre)  
+[![Sobre](https://img.shields.io/badge/Sobre-blue?style=for-the-badge)](#-sobre)  
 [![🛠️ Tecnologias Utilizadas](https://img.shields.io/badge/🛠️%20Tecnologias%20Utilizadas-green?style=for-the-badge)](#-tecnologias-utilizadas)  
 [![📂 Projetos](https://img.shields.io/badge/📂%20Projetos-orange?style=for-the-badge)](#-projetos)  
 [![📸 Demonstração](https://img.shields.io/badge/📸%20Demonstração-yellow?style=for-the-badge)](#-demonstração)  
