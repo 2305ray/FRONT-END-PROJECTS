@@ -1,3 +1,39 @@
 [submodule "Linktree"]
 	path = Linktree
 	url = https://github.com/2305ray/Linktree.git
+[submodule "NavegaFacil"]
+	path = NavegaFacil
+	url = https://github.com/2305ray/NavegaFacil.git
+[submodule "Ignite-Feed"]
+	path = Ignite-Feed
+	url = https://github.com/2305ray/Ignite-Feed.git
+[submodule "Todo-Filter"]
+	path = Todo-Filter
+	url = https://github.com/2305ray/Todo-Filter.git
+[submodule "TodoList"]
+	path = TodoList
+	url = https://github.com/2305ray/TodoList.git
+[submodule "Calculadora"]
+	path = Calculadora
+	url = https://github.com/2305ray/Calculadora.git
+[submodule "LandingPage-ArtGaby"]
+	path = LandingPage-ArtGaby
+	url = https://github.com/2305ray/LandingPage-ArtGaby.git
+[submodule "Timer-ignite"]
+	path = Timer-ignite
+	url = https://github.com/2305ray/Timer-ignite.git
+[submodule "coffee-ignite-ts"]
+	path = coffee-ignite-ts
+	url = https://github.com/2305ray/coffee-ignite-ts.git
+[submodule "Bento-Grid"]
+	path = Bento-Grid
+	url = https://github.com/2305ray/Bento-Grid.git
+[submodule "Blog-Card"]
+	path = Blog-Card
+	url = https://github.com/2305ray/Blog-Card.git
+[submodule "DevStage"]
+	path = DevStage
+	url = https://github.com/2305ray/DevStage.git
+[submodule "Fundamentos-JavaScript"]
+	path = Fundamentos-JavaScript
+	url = https://github.com/2305ray/Fundamentos-JavaScript.git
