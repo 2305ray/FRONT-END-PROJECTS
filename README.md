@@ -16,7 +16,7 @@
 [![Tecnologias Utilizadas](https://img.shields.io/badge/Tecnologias%20Utilizadas-green?style=for-the-badge)](#-tecnologias-utilizadas)  
 [![Projetos](https://img.shields.io/badge/Projetos-orange?style=for-the-badge)](#-projetos)  
 [![📸 Demonstração](https://img.shields.io/badge/📸%20Demonstração-yellow?style=for-the-badge)](#-demonstração)  
-[![📞 Contato](https://img.shields.io/badge/📞%20Contato-pink?style=for-the-badge)](#-contato)  
+[![Contato](https://img.shields.io/badge/Contato-pink?style=for-the-badge)](#-contato)  
 
 
 ---
