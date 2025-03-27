@@ -19,23 +19,25 @@
     <img src="https://img.shields.io/badge/Sobre-white?style=for-the-badge" alt="Sobre">
   </a>
   <a href="#-tecnologias-utilizadas">
-    <img src="https://img.shields.io/badge/Tecnologias%20Utilizadas-purple?style=for-the-badge" alt="Tecnologias Utilizadas">
+    <img src="https://img.shields.io/badge/Tecnologias%20Utilizadas-%234D47C4?style=for-the-badge" alt="Tecnologias Utilizadas">
   </a>
   <a href="#-projetos">
     <img src="https://img.shields.io/badge/Projetos-white?style=for-the-badge" alt="Projetos">
   </a>
   <a href="#-contato">
-    <img src="https://img.shields.io/badge/Contato-purple?style=for-the-badge" alt="Contato">
+    <img src="https://img.shields.io/badge/Contato-%234D47C4?style=for-the-badge" alt="Contato">
   </a>
 </p>
+
+
 
 
 
 ---
 <h2 align="center">  🚀 Sobre </h2>
 
-Este repositório contém diversos projetos Front-end, onde exploro diferentes tecnologias e abordagens para o desenvolvimento de interfaces. Cada projeto tem um propósito específico, desde páginas estáticas até aplicações dinâmicas interativas.
-ADENDO: Todos os projetos deste repositório têm um único e exclusivo objetivo: estudo. Meus projetos pessoais e autorais estão em outro repositório.
+Este repositório contém uma série de projetos Front-end criados com o propósito de estudo. A ideia é praticar e demonstrar habilidades em diversas tecnologias. Para meus projetos autorais e pessoais, visite outro repositório.
+
 
 - ✔️ Desenvolvimento de landing pages, dashboards e aplicações SPA
 - ✔️ Uso de bibliotecas e frameworks modernos
@@ -62,6 +64,20 @@ As principais tecnologias e ferramentas usadas nestes projetos incluem:
 Você pode conferir todos os meus projetos diretamente na aba de repositórios do meu GitHub:
 
 🔗 [Meu Github](https://github.com/2305ray)  
+
+- [TodoList](https://github.com/2305ray/TodoList)
+- [Todo-Filter](https://github.com/2305ray/Todo-Filter)
+- [Timer-Ignite](https://github.com/2305ray/Timer-ignite)
+- [NavegaFacil](https://github.com/2305ray/NavegaFacil)
+- [LandingPage-ArtGaby](https://github.com/2305ray/LandingPage-ArtGaby)
+- [Linktree](https://github.com/2305ray/Linktree)
+- [Ignite-Feed](https://github.com/2305ray/Ignite-Feed)
+- [Fundamentos-JavaScript](link_para_o_projeto)
+- [DevStage](https://github.com/2305ray/DevStage)
+- [Calculadora](https://github.com/2305ray/Calculadora)
+- [Blog-Card](https://github.com/2305ray/Blog-Card)
+- [Bento-Grid](https://github.com/2305ray/Bento-Grid)
+- [Coffe-Ignite](https://github.com/2305ray/coffee-ignite-ts)
 
 ---
 
